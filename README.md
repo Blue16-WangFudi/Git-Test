@@ -1,3 +1,3 @@
-# FreeTimetable-Generation
+# Git测试
 
-测试更改
+这是我用于学习git临时建立的仓库，什么也没有哦
